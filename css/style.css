@@ -447,6 +447,14 @@ img {
 .icon-address {
     margin-right: 10px;
 }
+.icon-address-email {
+    margin-right: 10px;
+    vertical-align: middle;
+}
+.icon-address-telefon {
+    margin-right: 10px;
+    vertical-align: text-bottom;
+}
 
 .portfolio-element:hover,
 .podrtolio-element:focus {
